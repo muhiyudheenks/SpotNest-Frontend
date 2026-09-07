@@ -16,7 +16,7 @@ export default function Navbar() {
 
           <a
             href="/properties"
-            className="text-sm font-medium hover:text-gray-600"
+            className   vddf="text-sm font-medium hover:text-gray-600"
           >
             Properties
           </a>
